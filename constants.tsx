@@ -7,14 +7,14 @@ export const FOUNDERS: Founder[] = [
     role: "Founder",
     phone: "+91 9099368070",
     email: "krish@influrunner.com",
-    image: "https://picsum.photos/seed/krish/400/400"
+    image: "./krish.jpeg"
   },
   {
     name: "Pavan Patel",
     role: "Co-Founder",
     phone: "+91 8866947440",
     email: "pavan@influrunner.com",
-    image: "https://picsum.photos/seed/pavan/400/400"
+    image: "./pavan.jpeg"
   }
 ];
 
