@@ -1,20 +1,21 @@
 
 import { Founder, CompanyInfo } from './types';
-
+import krish from "./images/krish.jpeg";
+import pavan from "./images/pavan.jpeg";
 export const FOUNDERS: Founder[] = [
   {
     name: "Krish Thakkar",
     role: "Founder",
     phone: "+91 9099368070",
     email: "krish@influrunner.com",
-    image: "images/krish.jpeg"
+    image: krish
   },
   {
     name: "Pavan Patel",
     role: "Co-Founder",
     phone: "+91 8866947440",
     email: "pavan@influrunner.com",
-    image: "images/pavan.jpeg"
+    image: pavan
   }
 ];
 
